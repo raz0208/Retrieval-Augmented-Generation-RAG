@@ -1,5 +1,8 @@
-langchain
-langchain-core
-langchain-community
-pypdf
-pymupdf
+langchain # ***
+langchain-core # ***
+langchain-community # ***
+pypdf # ***
+pymupdf # ***
+sentence-transformers # Embedding models from Huggingface
+chromadb # Vector Database
+faiss-cpu # ***
