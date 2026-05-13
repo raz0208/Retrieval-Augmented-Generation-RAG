@@ -5,4 +5,4 @@ pypdf # ***
 pymupdf # ***
 sentence-transformers # Embedding models from Huggingface
 chromadb # Vector Database
-faiss-cpu # ***
+faiss-cpu # Vector Store Package
