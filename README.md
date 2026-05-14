@@ -1,6 +1,6 @@
 # Retrieval-Augmented-Generation-RAG_Basic
-A traditional and basic RAG implementation without pipeline without using any popular libraries such as Langchain or Llamaindex
+A traditional and basic RAG implementation without pipeline without using any popular libraries such as Langchain or Llamaindex.
+This is a repository to practes all RAG methods. The RAG applications exist in separate repository in this github account.
 
-
-- Updated: 4/27/2026
-- First Code: 1 year ago.
+- Repository Created In: 04-27-2026
+- First Code Generation: 11-02-2025.
